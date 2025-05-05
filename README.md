@@ -1,5 +1,6 @@
 # 【更新】
-LuPy更名为Lumerpy，本仓库弃用，请见新仓库地址：https://github.com/OscarXChen/lumerpy
+关于通过Python控制Lumerical的部分，LuPy更名为Lumerpy，请见新仓库地址：https://github.com/OscarXChen/lumerpy
+关于复现DONN的工作，稍后本仓库将更新
 
 # 【旧版自述文件】
 ## LuPy：Lumerical Python
